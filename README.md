@@ -1,23 +1,5 @@
-<!--## Hi there 👋 -->
-
-<!--
-**NILUOP/NILUOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Hi 👋, I'm Nisarg Chaudhary</h1>
-<h3 align="center">A Passionate Developer & Tech Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Computer Science Engineering Student | Pandit Deendayal Energy University</h3>
 
 <p align="center">
   <a href="https://github.com/NILUOP">
@@ -32,18 +14,47 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on cool projects involving **Python, C/C++, and Web Development**
-- 🌱 I'm currently learning new tech stacks and improving my dev skills
-- 🛠️ I love building things like automation tools, sorting systems, and Arduino-based projects
-- ⚡ Fun fact: I built an automatic solar panel cleaner using Arduino UNO!
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Pandit Deendayal Energy University (CGPA: 8.79)
+- 📈 GATE CS Score: **573**
+- 🔭 Currently building projects around **systems programming, automation, and embedded systems**
+- 🌱 Strong foundation in **DSA, OS, DBMS, Computer Networks, OOPS, Compiler Design & Theory of Computation**
+- 🤝 Volunteered in civic/social work (conflict resolution & case management) with Bhagini Samaj, Patan
+- 📫 Reach me at **nisargkumar2005@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
+
+**Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,html,css,js" />
 </p>
+
+**Tools & Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,nodejs,express,react,mongodb,linux,arduino" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🎙️ **[Personal Voice Assistant](https://github.com/NILUOP/ASSISTANT_NILU)** *(Python, June 2025)*
+  Voice-controlled assistant that opens apps, browses the web, fetches weather, and searches the internet — built using `speech_recognition`, `pyttsx3`, and `pyautogui`.
+
+- 🧩 **BrainFk Language Interpreter** *(C++, December 2025)*
+  A Brainfuck interpreter implementing all 8 commands with memory tape simulation and a lightweight step-by-step execution engine.
+
+- ☀️ **[Automatic Solar Panel Cleaner](https://github.com/NILUOP/Automatic-solar-panel-cleaner)** *(Arduino, C/C++, Embedded Systems, Nov 2024)*
+  Arduino UNO–based robotic cleaning system that removes dust/debris to improve solar panel efficiency.
+
+- 📊 **[Low Attendance Student Sorter](https://github.com/NILUOP/low-attendance-student-sorter)** *(C)*
+  Reads student data (name, roll no., attendance %) from CSV and filters out low-attendance students.
+
+- 💼 **[Portfolio](https://github.com/NILUOP/portfolio)** *(HTML)*
+  My personal portfolio website.
 
 ---
 
@@ -79,20 +90,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Featured Projects
-
-- 🎓 [Low Attendance Student Sorter](https://github.com/NILUOP/low-attendance-student-sorter) — Reads CSV student data and filters out students with low attendance.
-- ☀️ [Automatic Solar Panel Cleaner](https://github.com/NILUOP/Automatic-solar-panel-cleaner) — Arduino UNO R3 based project for automatic solar panel cleaning.
-- 🤖 [Assistant Nilu](https://github.com/NILUOP/ASSISTANT_NILU) — A Python-based personal assistant project.
-- 💼 [Portfolio](https://github.com/NILUOP/portfolio) — My personal portfolio website.
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
   <a href="https://github.com/NILUOP" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:nisargkumar2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
