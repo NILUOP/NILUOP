@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Pandit Deendayal Energy University (CGPA: 8.79)
+- 🎓 Pursuing **B.Tech in Computer Science Engineering** at Pandit Deendayal Energy University (CGPA: 8.81)
 - 📈 GATE CS Score: **573**
 - 🔭 Currently building projects around **systems programming, automation, and embedded systems**
 - 🌱 Strong foundation in **DSA, OS, DBMS, Computer Networks, OOPS, Compiler Design & Theory of Computation**
